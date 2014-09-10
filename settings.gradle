@@ -1,1 +1,1 @@
-include ':app'
+include ':mclient', ':library_actionbarSherlock', ':library_animation', ':library_pullToRefresh', ':library_pullToRefresh_extra', ':library_sldingUpPanel', ':library_slidingMenu', ':library_stickyListHeaders', ':library_swipeListView'

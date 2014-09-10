@@ -8,7 +8,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/library_actionbarSherlock" />
+            <option value="$PROJECT_DIR$/library_animation" />
+            <option value="$PROJECT_DIR$/library_pullToRefresh" />
+            <option value="$PROJECT_DIR$/library_pullToRefresh_extra" />
+            <option value="$PROJECT_DIR$/library_sldingUpPanel" />
+            <option value="$PROJECT_DIR$/library_slidingMenu" />
+            <option value="$PROJECT_DIR$/library_stickyListHeaders" />
+            <option value="$PROJECT_DIR$/library_swipeListView" />
+            <option value="$PROJECT_DIR$/mclient" />
           </set>
         </option>
       </GradleProjectSettings>

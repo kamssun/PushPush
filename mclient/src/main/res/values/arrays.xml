@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="left_menu_list">
+        <item>消息</item>
+        <item>待办</item>
+    </string-array>
+
+</resources>
